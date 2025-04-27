@@ -59,7 +59,7 @@ body {
 /* Sent messages (right side) */
 .sent {
   align-self: flex-end;
-  background-color: rgb(215, 173, 208);
+  background-color: rgb(111, 0, 128);
 }
 
 /* Received messages (left side) */

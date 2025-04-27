@@ -59,7 +59,7 @@ body {
 /* Sent messages (right side) */
 .sent {
   align-self: flex-end;
-  background-color: rgb(215, 173, 208);
+  background-color: gree;
 }
 
 /* Received messages (left side) */
@@ -92,7 +92,7 @@ body {
 button {
   margin-left: 10px;
   padding: 10px 20px;
-  background-color: #09c44e;
+  background-color: #c4e24a;
   color: white;
   border: none;
   border-radius: 25px;
@@ -102,7 +102,7 @@ button {
 }
 
 button:hover {
-  background-color: #0bcddf;
+  background-color: #d53538;
 }
 
 /* Mobile responsive tweaks */

@@ -59,14 +59,14 @@ body {
 /* Sent messages (right side) */
 .sent {
   align-self: flex-end;
-  background-color: rgb(215, 173, 208);
+  background-color: rgb(202, 12, 167);
 }
 
 /* Received messages (left side) */
 .received {
   align-self: flex-start;
   background-color: #eeeeee;
-  border: 1px solid #f9f9f9;
+  border: 1px solid #f9f9f9;n
 }
 
 /* Input area */
